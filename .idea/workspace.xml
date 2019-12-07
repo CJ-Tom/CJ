@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8856fc5-21ea-4502-b2c2-fb15aadfd0e6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1UYIlnuclCln3eV0dxgdwleT38Q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager">
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.HelloWorld" />
+      <module name="EX" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HelloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8856fc5-21ea-4502-b2c2-fb15aadfd0e6" name="Default Changelist" comment="" />
+      <created>1575527256053</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575527256053</updated>
+      <workItem from="1575527261420" duration="66000" />
+      <workItem from="1575527402996" duration="34000" />
+      <workItem from="1575527459472" duration="294000" />
+      <workItem from="1575527995333" duration="257000" />
+      <workItem from="1575528287492" duration="277000" />
+      <workItem from="1575528675627" duration="268000" />
+      <workItem from="1575528994192" duration="18000" />
+      <workItem from="1575529146681" duration="194000" />
+      <workItem from="1575529377808" duration="10000" />
+      <workItem from="1575529413661" duration="296000" />
+      <workItem from="1575530402447" duration="8000" />
+      <workItem from="1575530434352" duration="878000" />
+      <workItem from="1575719627287" duration="609000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="206" y="0" key="CommitChangelistDialog2" timestamp="1575720439918">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="206" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1575720439918" />
+    <state x="476" y="100" key="FileChooserDialogImpl" timestamp="1575720293644">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="476" y="100" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1575720293644" />
+    <state x="465" y="258" width="375" height="173" key="Github.CreateGistDialog" timestamp="1575719966326">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="465" y="258" width="375" height="173" key="Github.CreateGistDialog/0.0.1280.689@0.0.1280.689" timestamp="1575719966326" />
+    <state width="1237" height="166" key="GridCell.Tab.0.bottom" timestamp="1575528945565">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="166" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1575528945565" />
+    <state width="1237" height="166" key="GridCell.Tab.0.center" timestamp="1575528945565">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="166" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1575528945565" />
+    <state width="1237" height="166" key="GridCell.Tab.0.left" timestamp="1575528945565">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="166" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1575528945565" />
+    <state width="1237" height="166" key="GridCell.Tab.0.right" timestamp="1575528945565">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="166" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1575528945565" />
+    <state x="197" y="0" key="SettingsEditor" timestamp="1575720237207">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="197" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1575720237207" />
+    <state x="336" y="173" key="com.intellij.ide.util.TipDialog" timestamp="1575719636561">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="336" y="173" key="com.intellij.ide.util.TipDialog/0.0.1280.689@0.0.1280.689" timestamp="1575719636561" />
+  </component>
+</project>
