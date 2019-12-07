@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a8856fc5-21ea-4502-b2c2-fb15aadfd0e6" name="Default Changelist" comment="" />
+    <list default="true" id="a8856fc5-21ea-4502-b2c2-fb15aadfd0e6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +12,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1UYIlnuclCln3eV0dxgdwleT38Q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -77,18 +79,30 @@
       <workItem from="1575529413661" duration="296000" />
       <workItem from="1575530402447" duration="8000" />
       <workItem from="1575530434352" duration="878000" />
-      <workItem from="1575719627287" duration="609000" />
+      <workItem from="1575719627287" duration="850000" />
     </task>
+    <task id="LOCAL-00001" summary="测试">
+      <created>1575720457639</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575720457639</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="206" y="0" key="CommitChangelistDialog2" timestamp="1575720439918">
+    <state x="206" y="0" key="CommitChangelistDialog2" timestamp="1575720456565">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="206" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1575720439918" />
+    <state x="206" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1575720456565" />
     <state x="476" y="100" key="FileChooserDialogImpl" timestamp="1575720293644">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
